@@ -1,0 +1,6 @@
+{
+    "Roles": true,
+    "Permissions": true,
+    "Dashboard": true,
+    "Polls": true
+}

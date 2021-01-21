@@ -1,0 +1,53 @@
+form .error {
+    color: #c10915 !important;
+    font-size: 14px;
+    text-transform: none;
+}
+form .form-error {
+    color: #c10915 !important;
+    font-size: 14px;
+    text-transform: none;
+}
+.form-group.has-error label {
+    color: #c10915 !important;
+}
+.hidden{display: none !important;}
+.invalid-feedback {
+    font-size: 14px !important;
+    color: #c10915 !important;
+    font-weight: normal !important;
+}
+label.error {
+    text-transform: none;
+    padding: 4px;
+}
+.asterisk { color: #D9534F !important;}
+#loader{display: none;}
+#loader {
+    position: fixed;
+    top: 0;
+    left: 0;
+    opacity: 0.8;
+    width: 100%;
+    height: 100%;
+    background-color: #f5f5f5;
+    z-index: 10000;
+    display: none;
+    text-align: center;
+}
+
+#loader #status {
+    width: auto;
+    height: auto;
+    position: absolute;
+    left: 38%;
+    top: 50%;
+    margin: -15px 0 0 -15px;
+    font-size: 32px;
+}
+
+.user-poll-vote{background-color:#EEEEEE;padding: 31px;;font-family:Comic Sans MS;font-size:small;color:#2E230E;box-shadow: 0px 0px 5px #888;}
+.py-4{padding: 250px 250px;}
+.width-auto{width: auto !important;}
+.pad0313{padding: 0 313px;}
+.clear-both{clear:both;height:2px;}
